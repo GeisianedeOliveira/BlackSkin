@@ -1,0 +1,48 @@
+.box_container{
+    margin: auto;
+    width: 48%;
+}
+
+.title_apoie{
+    font-family: 'Archivo Black', sans-serif;
+    text-align: center;
+    font-weight: bold;
+    color: #794490;
+    font-size: 20px;
+}
+
+.box_container h1{
+    font-family: 'Archivo Black', sans-serif;
+    text-align: center;
+    font-weight: bold;
+    color: #794490;
+    font-size: 24px;
+}
+
+.box_container p{
+    font-family: 'Archivo Black', sans-serif;
+    text-align: center;
+    font-weight: bold;
+    color: #794490;
+    font-size: 14px;
+    margin-top: 10px;
+}
+
+.box_container .textao{
+    font-family: 'Archivo Black', sans-serif;
+    text-align: justify;
+    font-weight: bold;
+    color: #794490;
+    font-size: 16px;
+    margin-top: 25px;
+}
+
+.box_container .pix_celular{
+    font-size: 16px;
+    margin-top: 25px;
+}
+
+.box_container .pix_e-mail{
+    font-size: 16px;
+    margin-top: 25px;
+}

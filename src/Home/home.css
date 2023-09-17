@@ -1,0 +1,21 @@
+.container img{
+    width: 64px;
+    height: 64px;
+}
+
+#canto_superior_direito{
+    right: 0;
+    position: fixed;
+}
+
+#canto_inferior_direito{
+    right: 0;
+    bottom: 80px;
+    position: fixed;
+}
+
+#canto_inferior_esquerdo{
+    left: 0;
+    bottom: 80px;
+    position: fixed;
+}
